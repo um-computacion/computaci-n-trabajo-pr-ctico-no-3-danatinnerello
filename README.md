@@ -2,7 +2,7 @@
 # Trabajo Práctico 3: Desarrollo Guiado por Pruebas (TDD) - Manejo de Excepciones
 
 ## Identificación del Alumno
-**Nombre y Apellido:** [Completar con tu nombre y apellido]
+**Nombre y Apellido:** [Dana Tinnerello]
 
 **Nota:** Este trabajo práctico es de carácter individual. Cada alumno debe realizar su propia implementación y no se permite el trabajo en grupo.
 
@@ -185,3 +185,4 @@ Para ejecutar el programa y las pruebas, sigue estos pasos:
    Ingrese un número: ABC
    Error: La entrada debe ser un número válido
    ```
+   
